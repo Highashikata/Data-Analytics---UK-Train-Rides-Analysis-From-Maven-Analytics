@@ -69,8 +69,7 @@ Colors:
 
 ### Final  report View.
 
-<div align="center">
-  ![Demo GIF](https://github.com/user-attachments/assets/268e7e46-f142-4730-923c-c00b18c6eb05)
-</div>
+![Demo GIF](https://github.com/user-attachments/assets/268e7e46-f142-4730-923c-c00b18c6eb05)
+
 
   
